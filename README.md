@@ -8,8 +8,6 @@ A java calculator for windows to calculate simple commission and get actual pric
 
 <ul>
     <li>Java JDK8, JRE8</li>
-     <li>(May be required) JRE1.8 32bit if you want to install this software in Windows 10 (Download from
-'https://drive.google.com/open?id=0BwasIjIvyEvZRURaaEU4TTJia0E'). If there is a problem to install, then the exe file should be placed on the Desktop of the C: drive and installed.</li>
 </ul>
 
 ### Project Version:
