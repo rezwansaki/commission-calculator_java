@@ -2,7 +2,7 @@
 
 A java calculator for windows to calculate simple commission and get actual price of any product.
 
-![Alt text](screenshots.PNG "Commission-Calculator")
+![Alt text](screenshot.PNG "Commission-Calculator")
 
 ## Pre-requirement:
 
